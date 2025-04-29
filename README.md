@@ -1,5 +1,5 @@
-- 👋 Hi, I am Kin @kh-w, PhD candidate at Wayne State.
-- 👀 PhD research interests: Mathematics and Statistics, with deep-learning applications.
+- 👋 Hi, I am Kin @kh-w, final year PhD at Wayne State.
+- 👀 PhD research interests: Rating Systems of Single/Multi-player/team games.
 - 📫 Feel free to reach me at >>> [email](mailto:kinhang@wayne.edu).
 
 <!---

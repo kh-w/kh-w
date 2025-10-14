@@ -1,5 +1,6 @@
 - 👋 Hi, I am Kin @kh-w, final year PhD at Wayne State.
-- 👀 PhD research interests: Player Rating Systems of single/multi-player/team games, Quantum Computing.
+- 👀 PhD research interests: Player Rating Systems of single/multi-player/team games.
+- 📈 Other interests: Quantum Computing, algorithmic trading, strategic games such as mahjong(all variants) and poker(all variants).
 - 📫 Feel free to reach me at >>> [email](mailto:kinhang@wayne.edu).
 
 <!---
